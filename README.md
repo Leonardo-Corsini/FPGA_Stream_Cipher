@@ -3,6 +3,8 @@
 ![Language](https://img.shields.io/badge/Language-SystemVerilog-blue)
 ![Platform](https://img.shields.io/badge/FPGA-Intel%20Cyclone%20V-red)
 ![Throughput](https://img.shields.io/badge/Throughput-1.21%20Gbps-green)
+<a href="https://buymeacoffee.com/leonardo.corsini"><img alt="Make a donation" src="https://img.shields.io/badge/Make a donation-red.svg"></a>
+
 
 A high-throughput, pipelined stream cipher implementation targeting **Operational Technology (OT)** and real-time embedded systems. Designed in **SystemVerilog** and synthesized on **Intel Cyclone V**.
 
@@ -45,3 +47,10 @@ The design was verified using **ModelSim** against a **Python Gold Model**.
 * **Intel Quartus Prime Lite** (Synthesis & Timing Analysis)
 * **ModelSim** (Simulation)
 * **Python** (Golden Model & Test Vector Generation)
+
+## Support
+
+If you find this project useful, and you want to support my work, consider giving it a ⭐ on GitHub, sharing it with others.
+You could donate on https://buymeacoffee.com/leonardo.corsini to support the development. I will be grateful for any donation you want to make.
+
+Contributions and feedback are welcome!
